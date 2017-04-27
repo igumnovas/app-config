@@ -5,9 +5,9 @@ management:
   security:
     enabled: false
     logging: # <----New sections below
-  level:
-    io:
-      pivotal: DEBUG
+level:
+  io:
+    pivotal: DEBUG
 
 greeting:
   displayFortune: false
